@@ -2,7 +2,7 @@
 //  String+Extensions.swift
 //  MoviesAppUIKit
 //
-//  Created by Mohammad Azam on 10/12/23.
+//  Created by Thiago Castro on 02/03/26.
 //
 
 import Foundation
